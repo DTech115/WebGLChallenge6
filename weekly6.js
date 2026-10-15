@@ -173,6 +173,7 @@ scene.add(sunlight);
 
 const lampGlow = new THREE.PointLight(0xffc56f, 28, 5);
 lampGlow.position.set(1.5, 2.1, 1.15);
+lampGlow.color.set(0xffcc88)
 scene.add(lampGlow);
 
 window.addEventListener("resize", () => {
