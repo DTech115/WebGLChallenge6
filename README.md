@@ -32,3 +32,11 @@ You can also use the Live Server extension in VS Code.
 - [Three.js](https://threejs.org/) `0.160.0`
 - JavaScript ES modules
 - WebGL
+
+## Questions
+1. What lighting choices make a room feel cozy?  
+low, warm light so that the shadows are more present & there isn't a bright light covering everything.
+2. What colors feel warm?  
+ Orange, deep yellow, some red.
+3. How does the lamp affect the mood?  
+it adds a second light source to add to the evening mood.
