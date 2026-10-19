@@ -37,6 +37,12 @@ You can also use the Live Server extension in VS Code.
 1. What lighting choices make a room feel cozy?  
 low, warm light so that the shadows are more present & there isn't a bright light covering everything.
 2. What colors feel warm?  
- Orange, deep yellow, some red.
+Orange, deep yellow, some red.
 3. How does the lamp affect the mood?  
 it adds a second light source to add to the evening mood.
+4. Why does the room feel more dramatic?
+less light & more shadows + lack of information from the dark.
+5. How does darkness affect mood?
+less vibrance is tied to a more chill vibe as there's less color & light coming at you.
+6. Why is blue often used in nighttime scenes?
+it's a colder color & is usually the color of the night sky.
