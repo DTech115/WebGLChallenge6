@@ -191,6 +191,16 @@ new THREE.PointLight(
 tvLight.position.set(2.95, 2.43, -2.335);
 scene.add(tvLight);
 
+// lightning outside to flash
+const lightning =
+new THREE.PointLight(
+    0xffffff,
+    0,
+    30
+);
+lightning.position.set(0, 5.35, -5.5);
+scene.add(lightning);
+
 window.addEventListener("resize", () => {
     camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
@@ -201,6 +211,11 @@ function animate() {
     requestAnimationFrame(animate);
     controls.update();
     renderer.render(scene, camera);
-}
+
+    lightning.intensity =
+        Math.random() > 0.98
+        ? 20
+        : 0;
+} 
 
 animate();

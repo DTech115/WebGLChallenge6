@@ -40,9 +40,15 @@ low, warm light so that the shadows are more present & there isn't a bright ligh
 Orange, deep yellow, some red.
 3. How does the lamp affect the mood?  
 it adds a second light source to add to the evening mood.
-4. Why does the room feel more dramatic?
+4. Why does the room feel more dramatic?  
 less light & more shadows + lack of information from the dark.
-5. How does darkness affect mood?
+5. How does darkness affect mood?  
 less vibrance is tied to a more chill vibe as there's less color & light coming at you.
-6. Why is blue often used in nighttime scenes?
-it's a colder color & is usually the color of the night sky.
+6. Why is blue often used in nighttime scenes?  
+it's a colder color & is usually the color of the night sky
+7. Why do sudden lighting changes feel dramatic?  
+because typically, relaxed scenes don't suddenly change their lighting suddenly, like with lightning here.
+8. Which objects catch the lightning best?  
+Probably the chair & floor as they are affected the most.
+9. How does shadow intensity change?.  
+It gets lit up spontaniously, meaning shadows increase greatly before going away just as fast.
