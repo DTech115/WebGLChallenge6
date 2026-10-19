@@ -169,11 +169,14 @@ sunlight.shadow.camera.left = -10;
 sunlight.shadow.camera.right = 10;
 sunlight.shadow.camera.top = 12;
 sunlight.shadow.camera.bottom = -4;
+sunlight.intensity = 1.5;
 scene.add(sunlight);
 
 const lampGlow = new THREE.PointLight(0xffc56f, 28, 5);
 lampGlow.position.set(1.5, 2.1, 1.15);
-lampGlow.color.set(0xffcc88)
+lampGlow.color.set(0xffcc88);
+lampGlow.intensity = 10;
+
 scene.add(lampGlow);
 
 window.addEventListener("resize", () => {
