@@ -52,3 +52,21 @@ because typically, relaxed scenes don't suddenly change their lighting suddenly,
 Probably the chair & floor as they are affected the most.
 9. How does shadow intensity change?.  
 It gets lit up spontaniously, meaning shadows increase greatly before going away just as fast.
+
+## Reflection
+1. Which lighting setup created the strongest mood?
+Probably night as it felt like a true night scene.
+2. Which scene felt most realistic?
+Also the night scene, probably from the darkness & lack of information allowing your brain to autofill the details
+3. How did lighting change the emotional feeling of the room?
+Warm lights gave cozy feelings while dark & cold gave moody vibes.
+4. Why are PointLights useful indoors?
+They can create artificial lights really well, in this case, the lamp & TV.
+5. Why are colored lights effective for storytelling?
+You can get the right vibes for the specific scenes [evening is orange, night is blue].
+6. Which lighting setup required the most experimentation?
+Storm, as the placement & randomness of the lightning needed experimenting. I also planned to have the inner lighting light up with it, but decided it looked better with just the lightning flickering.
+7. How did animated lights improve the scene?
+It made it seem more "alive."
+8. If this were a real game, which scene would players remember most and why?
+Probably the sudden storm & lightning that comes from it.
